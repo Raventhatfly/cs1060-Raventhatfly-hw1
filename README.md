@@ -14,3 +14,6 @@ I worked on setting up 2048 game from scratch and publish it.
 
 ## Issues encountered: 
 The generated code is actually quite buggy. At first there is no use pushing the button, and after I told AI to fix it and ammend some code my own, the position of tiles are in the wrong place.
+
+## Time:
+It took me 40 minutes.
